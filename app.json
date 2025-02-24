@@ -9,22 +9,22 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "916380260672;TurboMods;918270026275;TurboMods"
+      "value": "6281315889325;Zul;6281315889325;Zul"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "Toxic Alexa"
+      "value": "DaffZBot"
     },
     "PACKNAME": {
       "description": "Give your Packname for sticker",
       "required": true,
-      "value": "Toxic Alexa"
+      "value": "DaffZBot"
     },
     "AUTHOR": {
       "description": "Give your Author name for sticker",
       "required": true,
-      "value": "TurboMods"
+      "value": "Zul Gantenk"
     },
     "MENUVID": {
       "description": "Give your Video Url For Menu",
@@ -34,37 +34,37 @@
     "IGFG": {
       "description": "Give your Instagram",
       "required": true,
-      "value": "https://instagram.com/toxic_turbo777"
+      "value": "https://instagram.com/dffazul"
     },
     "FGYT": {
       "description": "Give your Youtube Channel Link",
       "required": true,
-      "value": "https://youtube.com/@TurboMods"
+      "value": "https://youtube.com/@dffazul"
     },
     "FGPYP": {
       "description": "Give your Website Link",
       "required": true,
-      "value": "https://youtu.be/vO4h2gsx0kQ?si=-BpfcOztSYhpJGXx"
+      "value": "https://instagram.com/dffazul"
     },
     "FGLOG": {
       "description": "Give your logo url",
       "required": true,
-      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
+      "value": "https://wallpapercave.com/wp/PKFoVoL.jpg"
     },
     "THUMB": {
       "description": "Give your Bot Logo Url",
       "required": true,
-      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
+      "value": "https://wallpapercave.com/wp/PKFoVoL.jpg"
     },
     "OMENTION": {
       "description": "Give Owner Number",
       "required": true,
-      "value": "@918270026275"
+      "value": "6281315889325"
     },
     "OWNERIMG": {
       "description": "Give Your Owner Image",
       "required": true,
-      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg""
+      "value": "https://wallpapercave.com/wp/PKFoVoL.jpg""
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -98,12 +98,12 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "antidelete": {
